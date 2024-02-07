@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenobi404
+- 👋 Hi, I’m @Sidarpu Venkatesh
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
